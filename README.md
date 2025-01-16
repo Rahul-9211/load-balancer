@@ -74,4 +74,4 @@ This project is licensed under the ISC License.
 
 ## Author
 
-Rahul Rawat 
+Rahul Rawat [@rahul-rawat](https://hackrest.com/)
